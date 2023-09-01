@@ -61,16 +61,27 @@ PostgreSQL é um sistema de gerenciamento de banco de dados relacional que é ro
 ## Estrutura de Arquivos
 
 `|-- backend`
+
 `|   |-- frontend`
+
 `|   |   |-- app.js`
+
 `|   |   |-- Dockerfile`
+
 `|   |   |-- index.html`
+
 `|   |   |-- styles.css`
+
 `|   |-- app.py`
+
 `|   |-- Dockerfile`
+
 `|   |-- requirements.txt`
+
 `|   |-- start.sh`
+
 `|-- docker-compose.yml`
+
 `|-- README.md`
 
 - `backend/`: Contém todo o código do backend, incluindo o arquivo `Dockerfile` para criar a imagem Docker do backend.
