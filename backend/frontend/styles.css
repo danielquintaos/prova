@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 40px;
+}
+
+.view {
+    display: none;
+}
+
+input, button {
+    margin-top: 20px;
+}
